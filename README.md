@@ -1,2 +1,6 @@
-# preorder-com
-website untuk melakukan pre order kaos. build dengan php
+# preorder.com
+
+preorder.com merupakan prototype website yang digunakan untuk melakukan proses pre-order barang.
+Website ini dikembangkan menggunakan framework Yii.
+
+preorder.com menggunakan template style yang didapatkan dari tympanus.com/codrops
